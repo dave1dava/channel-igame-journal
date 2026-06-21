@@ -1,2 +1,14 @@
 # channel-igame-journal
-HTML page archive and documentation
+
+静态页面发布集合
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 文件组织
+
+- 根目录承载页面文件
+- README 记录仓库用途与状态
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
